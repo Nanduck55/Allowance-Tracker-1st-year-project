@@ -28,4 +28,4 @@
 <p><b>DOCUMENTER</b> De Vera, Marry Antoinnete</p>
 <p><b>TIMELINE</b> Doot, John Mark</p>
 <br>
-<p>NOTICE: This project was done outside github hence you wont see any commits on the code. This project is now uploaded by the project lead any member listed here can copy the entire repository especially the main and vice contributors for their own portfolios. To my Team members you all did a great job so dont ever give up you all have great future ahead all credits go to you.</p>
+<p>NOTICE: This project was done outside github hence you wont see any commits on the code. This project is now uploaded by the project lead any member listed here can copy the entire repository especially the main and vice contributors for their own portfolios. To my Team members you all did a great and awesome job so don't ever give up this is now a foundation of your career you all have great future ahead of you, all credits go to you all godspeed.</p>
