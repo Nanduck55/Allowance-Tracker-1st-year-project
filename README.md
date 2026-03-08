@@ -21,10 +21,11 @@
 	<li>History Tracking (Optional): View the past expenses and allowance usage for review.</li>
 </ul>
 
-
 <h1>Credits:</h1>
 <p><b>PROJECT LEAD</b> Orte, Rainan</p>
 <p><b>MAIN CONTRIBUTOR</b> Escoto, Jerwin Maurice</p>
 <p><b>VICE CONTRIBUTOR</b> Gallero, BRYANT</p>
 <p><b>DOCUMENTER</b> De Vera, Marry Antoinnete</p>
 <p><b>TIMELINE</b> Doot, John Mark</p>
+<br>
+<p>NOTICE: This project was done outside github hence you wont see any commits on the code. This project is now uploaded by the project lead any member listed here can copy the entire repository especially the main and vice contributors for their own portfolios. To my Team members you all did a great job so dont ever give up you all have great future ahead all credits go to you.</p>
