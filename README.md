@@ -1,4 +1,8 @@
-This is a School project for Information Technology year 1
+<b><h1>ABOUT</h1></b>
+<br>
+<hr>
+
+
 
 Credits:
 Escoto
