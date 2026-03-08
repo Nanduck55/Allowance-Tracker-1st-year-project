@@ -1,7 +1,7 @@
 <b><h1>ABOUT</h1></b>
 <p><b>A Digital Budget Tracker for Managing Student Allowances<b></p>
 	<img alt="Static Badge" src="https://img.shields.io/badge/Python-GUI-lightgreen">
-	<img alt="Static Badge" src="https://img.shields.io/badge/Status-Closed-red">
+	<img alt="Static Badge" src="https://img.shields.io/badge/Status-Archived-red">
 	
 
 <br>
